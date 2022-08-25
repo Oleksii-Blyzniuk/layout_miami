@@ -1,9 +1,0 @@
-.details {
-  &__item {
-    margin-bottom: 40px;
-
-    @include onTab {
-      margin-bottom: 48px;
-    }
-  }
-}
